@@ -1,19 +1,16 @@
 # Muhammed Edev - Ödev Portfolyosu 🚀
 
-Bu depo, 2025-2026 eğitim dönemi web geliştirme derslerine ait ödevleri içermektedir.
-
 ## 🌐 Web Tabanlı Uygulama Ödevleri (Canlı Linkler)
-Aşağıdaki linklere tıklayarak ödevlerin çalışan hallerini tarayıcıda görüntüleyebilirsiniz:
 
-* [1. Hafta Ödevi İçin Tıklayın](https://muhammededev.github.io/odev-portfolyosu/web-tabanli/hafta-1/index.html)
-* [2. Hafta Ödevi İçin Tıklayın](https://muhammededev.github.io/odev-portfolyosu/web-tabanli/hafta-2/index.html)
-* [3. Hafta Ödevi İçin Tıklayın](https://muhammededev.github.io/odev-portfolyosu/web-tabanli/hafta-3/index.html)
-* [4. Hafta Ödevi İçin Tıklayın](https://muhammededev.github.io/odev-portfolyosu/web-tabanli/hafta-4/index.html)
+* [1. Hafta: Hakkımda Sayfası](https://muhammededev.github.io/odev-portfolyosu/web-tabanli-uygulama-gelistirme-odevleri/odev-1-hakkimda/index.html)
+* [2. Hafta: Tarif Tanıtım](https://muhammededev.github.io/odev-portfolyosu/web-tabanli-uygulama-gelistirme-odevleri/odev-2-html-tarif-tanitim/index.html)
+* [3. Hafta: CSS Profil](https://muhammededev.github.io/odev-portfolyosu/web-tabanli-uygulama-gelistirme-odevleri/odev-3-css-profil/index.html)
+* [4. Hafta: Pricing Table](https://muhammededev.github.io/odev-portfolyosu/web-tabanli-uygulama-gelistirme-odevleri/odev-4-pricing-table/index.html)
 
 ---
 
 ## ⚛️ JS Frameworkleri (React)
-*Not: React ödevleri (JS Frameworkleri) klasörlerde **kaynak kod** olarak mevcuttur. Kodları incelemek için ilgili klasörün içindeki `src` dizinine bakabilirsiniz.*
+*Not: React ödevleri klasörlerde kaynak kod olarak mevcuttur.*
 
 ---
-**MuhammedEdev** *Geliştirici Adayı*
+**MuhammedEdev**
