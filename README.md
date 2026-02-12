@@ -1,4 +1,4 @@
-# 🚀 MUHAMMED EDEV | WEB GELİŞTİRME PORTFOLYOSU
+# 🚀 MUHAMMEDEDEV | WEB GELİŞTİRME PORTFOLYOSU
 
 Bu depo, 2025-2026 eğitim dönemi boyunca hazırladığım tüm projeleri, teknik ödevleri ve uygulama çalışmalarını kapsamaktadır. Tüm dosyalar modüler yapıda ve ders içeriklerine uygun olarak kategorize edilmiştir.
 
